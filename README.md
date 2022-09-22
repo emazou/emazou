@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emazou&label=Profile%20views&color=0e75b6&style=flat" alt="emazou" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emazou" alt="emazou" /></a> </p>
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **estefania.mazou@gmail.com**
