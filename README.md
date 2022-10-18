@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Estefania</h1>
-<h3 align="center">A passionate Full-Stack developer from Colombia</h3>
+<h3 align="center">Full-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emazou&label=Profile%20views&color=0e75b6&style=flat" alt="emazou" /> </p>
 
