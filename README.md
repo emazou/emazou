@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emazou&label=Profile%20views&color=0e75b6&style=flat" alt="emazou" /> </p>
 
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently learning Kotlin
 
 - 📫 How to reach me **estefania.mazou@gmail.com**
 
