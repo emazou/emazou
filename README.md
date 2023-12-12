@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emazou&label=Profile%20views&color=0e75b6&style=flat" alt="emazou" /> </p>
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java
 
 - 📫 How to reach me **mazouribeestefania@gmail.com**
 
