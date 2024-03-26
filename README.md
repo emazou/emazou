@@ -1,3 +1,5 @@
+<h2 align="center">Hi 👋, my name is Estefania, but everyone calls me Nia</h2>
+<img src="https://i.ibb.co/VL4XQfh/Teal-Geometric-Technology-Linkdln-Banner.png" alt="Teal-Geometric-Technology-Linkdln-Banner" border="0">
 ## Languages and Tools
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,3 +27,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+## Contact me
+<p align="left">
+  <a href="https://linkedin.com/in/emazou"><img alt="Linkedin" title="Estefania Mazo Uribe Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto: mazouribeestefania@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
