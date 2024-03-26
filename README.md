@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, my name is Estefania, but everyone calls me Nia</h2>
 <img src="https://i.ibb.co/VL4XQfh/Teal-Geometric-Technology-Linkdln-Banner.png" alt="Teal-Geometric-Technology-Linkdln-Banner" border="0">
+
 ## Languages and Tools
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
