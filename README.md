@@ -36,8 +36,6 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<img align="right" alt="GIF" height="120px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-
 ## GitHub Analytics
 
 <p align="center">
@@ -52,3 +50,4 @@
   <a href="https://linkedin.com/in/emazou"><img alt="Linkedin" title="Estefania Mazo Uribe Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto: mazouribeestefania@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+<img align="right" alt="GIF" height="120px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
