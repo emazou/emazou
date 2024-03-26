@@ -1,6 +1,13 @@
 <h2 align="center">Hi 👋, my name is Estefania, but everyone calls me Nia</h2>
 <img src="https://i.ibb.co/VL4XQfh/Teal-Geometric-Technology-Linkdln-Banner.png" alt="Teal-Geometric-Technology-Linkdln-Banner" border="0">
 
+## About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about AWS and CI/CD\
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ## Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,6 +36,15 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+## GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emazou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emazou&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
 
 ## Contact me
 <p align="left">
