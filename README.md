@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, my name is Estefania, but everyone calls me Nia</h2>
+<h2 align="center">Hi 👋, I'm Estefania.</h2>
 <img src="https://i.ibb.co/VL4XQfh/Teal-Geometric-Technology-Linkdln-Banner.png" alt="Teal-Geometric-Technology-Linkdln-Banner" border="0">
 
 ## About Me
