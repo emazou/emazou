@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Estefania.</h2>
-<img src="https://i.ibb.co/VL4XQfh/Teal-Geometric-Technology-Linkdln-Banner.png" alt="Teal-Geometric-Technology-Linkdln-Banner" border="0">
 
 ## About Me
 
@@ -7,7 +6,7 @@
 🌱 &nbsp;I'm on track for learning more about GO.
 
 
-## Languages and Tools
+### • Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
